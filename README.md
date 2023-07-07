@@ -1,1 +1,1 @@
-I have created a Disney+ Hotstar Clone site using HTML, CSS and JavaScript.  
+I have created a Disney+ Hotstar Clone Website using HTML, CSS and JavaScript.  
