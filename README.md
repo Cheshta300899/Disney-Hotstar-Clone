@@ -1,1 +1,2 @@
-# Disney+ Hotstar Clone
+# Disney+ Hotstar Clone 
+Technolgies used:- HTML, CSS, JavaScript
