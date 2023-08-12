@@ -1,2 +1,2 @@
 # Disney+ Hotstar Clone 
-Technolgies used:- HTML, CSS, JavaScript
+Technologies used:- HTML, CSS, JavaScript
