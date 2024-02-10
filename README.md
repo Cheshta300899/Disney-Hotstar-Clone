@@ -1,2 +1,2 @@
-# OTT Streaming Service (Disney+ Hotstar Clone) 
+# OTT Streaming Service 
 Technologies used:- HTML, CSS, JavaScript
